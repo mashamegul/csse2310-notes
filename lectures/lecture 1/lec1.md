@@ -2,6 +2,7 @@
 ## Lecture 1: Introduction to the course
 
 ---
+###### don't expect alot in here, this is just a test
 ## Assesment
 ![assesment overview](ass.png) 
 
@@ -12,7 +13,7 @@
 
 ---
 # Terminal Stuff
-- 1 
+access vim tutor
 
 
 
